@@ -25,11 +25,11 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "assets/css/main.css",
-    "revision": "3b296d9746581a92a05c53911491365a"
+    "revision": "4833240d299400e4fc1419c1930c6737"
   },
   {
     "url": "assets/js/app.js",
-    "revision": "e03181e40a792b7a7b2dfaf21467a910"
+    "revision": "0fe3ed0f3e366654905f5d57c300249f"
   },
   {
     "url": "assets/js/modernizr-custom.js",
@@ -66,6 +66,18 @@ self.__precacheManifest = [
   {
     "url": "assets/img/bg-classic-768x768.jpg",
     "revision": "09cf04bdf02b9a5aa2bf9c4123957466"
+  },
+  {
+    "url": "assets/img/bg-greenscreen-1024x1024.jpg",
+    "revision": "41e215a859946473af2cff2ac0521ca4"
+  },
+  {
+    "url": "assets/img/bg-greenscreen-1920x1080.jpg",
+    "revision": "f8a51191af61703e2092d8061038cd01"
+  },
+  {
+    "url": "assets/img/bg-greenscreen-768x768.jpg",
+    "revision": "ac324219281ff7b5fe9a6af86d02affa"
   },
   {
     "url": "assets/img/bg-night-sky-clouds-1024x1024.jpg",
